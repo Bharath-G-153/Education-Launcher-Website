@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Education Dashboard Website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,42 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Education Launcher Website
+
+To run Education Dashboard Website follow the steps below
+
+
+## Project Structure
+
+
+```bash
+Education Dashboard
+|
+|---public
+| |
+| |--index.html
+|
+|---src
+| |
+| |---pages
+| | |
+| | |--adminportal.jsx
+| | |--department.jsx
+| | |--instructorPortal.jsx
+| | |--login.jsx
+| | |--studentInfo.jsx
+| | |--studentPortal.jsx
+| | |--superAdminPortal.jsx
+| | 
+| |--App.js
+| |--App.test.js
+| |--index.js
+| |--reportWebVitals.js
+| |--SetupTests.js
+|
+|--package.lock.json
+|--package.json
+|--server.js
+```
