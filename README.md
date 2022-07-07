@@ -24,6 +24,7 @@ Education Dashboard
 | | |--login.jsx
 | | |--studentInfo.jsx
 | | |--studentPortal.jsx
+| | |--superAdminPortal.jsx
 | | 
 | |--App.js
 | |--App.test.js
