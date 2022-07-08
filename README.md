@@ -107,3 +107,4 @@ Education Dashboard
 |--package.json
 |--server.js
 ```
+nodeJS and npm should be installed on the target system 3.run "npm install" 4. once all the packages are installed, open two different terminals 5.run "npm start" on one terminal 6.run "node server" on the other terminal
